@@ -2,14 +2,14 @@
 
 title: TMAU Health and Research Foundation
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: # TMAU Heath and Research Foundation-2.pdf
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Christine Dutt
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "This site is for my nonprofit."
+  email: #tmauhealthandresearch@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
